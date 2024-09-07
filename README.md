@@ -1,6 +1,7 @@
 # inline-randomizer-bot
 Telegram-Bot for fun :)
 
+-----------------------
 ## How to use? ##
 -----------------------
 + Check out @BotFather
