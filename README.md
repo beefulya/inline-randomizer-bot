@@ -1,12 +1,11 @@
 # inline-randomizer-bot
 Telegram-Bot for fun :)
 
------------------------
 ## How to use? ##
 -----------------------
-+ 1. Check out @BotFather
-+ 2. Click on your bot and select "BotSettings", then click on "Inline mode" and enable it
-+ 3. ready-made!
++ Check out @BotFather
++ Click on your bot and select "BotSettings", then click on "Inline mode" and enable it
++ ready-made!
 -----------------------
 ### Libraries ###
 -----------------------
